@@ -12,6 +12,8 @@ describe('simpleCalculator tests', () => {
     ).toBe(5);
   });
 
+  test('should subtract two numbers', () => {
+    // Write your test here
   test('should substract two numbers', () => {
     expect(
       simpleCalculator({
